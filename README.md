@@ -7,7 +7,7 @@ Welcome to **Beat Studio**, a web-based beat-making application designed for mus
 Beat Studio features three distinct modes tailored to your music production style:
 
 ### 🟩 1. Easy Mode
-* **Step Sequencer:** Click the classic grid rectangles to layout your patterns, just like the step sequencer in FL Studio.
+* **Step Sequencer:** Click the classic grid rectangles to lay out your patterns, just like the step sequencer in FL Studio.
 * **Testing Pad:** Tap the larger boxes at the bottom to easily test your sounds and preview your kit before sequencing.
 
 ### 🟦 2. Play Mode
